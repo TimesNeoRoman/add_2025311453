@@ -1,4 +1,5 @@
 김준기, JKQuantum, https://github.com/QIEclass2025/LadderAndChute
+김건하, 2025313202, dent505, https://github.com/QIEclass2025/updowngame
 김현준, KHJ0917, https://github.com/QIEclass2025/KHJ_GCP
 이지민, 2symin, https://github.com/2symin/new-git-test-repository-.git
 김규철, 2025313086, kimdelakorea, https://github.com/QIEclass2025/LadderAndChute
